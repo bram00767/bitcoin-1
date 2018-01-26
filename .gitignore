@@ -1,3 +1,4 @@
+# Bitcoin initial code in 12/03/2009 with beta installer 0.1 for windows XP and Ubuntu
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -26,8 +27,8 @@ wheels/
 *.egg
 
 # PyInstaller
-#  Usually these files are written by a python script from a template
-#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+#  Files written by a python script from a template
+#  PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
 
