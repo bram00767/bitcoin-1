@@ -1,1 +1,24 @@
 
+"hash": "000000006a625f06636b8bb6ac7b960a8d03705d1ace08b1a19da3fdcc99ddbd",
+  "height": 2,
+  "chain": "BTC.main",
+  "total": 0,
+  "fees": 0,
+  "size": 215,
+  "ver": 1,
+  "time": "2009-01-09T02:55:44Z",
+  "received_time": "2009-01-09T02:55:44Z",
+  "coinbase_addr": "",
+  "relayed_by": "\u003cnil\u003e",bram darras
+  "bits": 486604799,
+  "nonce": 1639830024,
+  "n_tx": 1,
+  "prev_block": "00000000839a8e6886ab5951d76f411475428afc90947ee320161bbf18eb6048",
+  "mrkl_root": "9b0fc92260312ce44e74ef369f5c66bbb85848f2eddd5a7a1cde251e54ccfdd5",
+  "txids": [
+    "9b0fc92260312ce44e74ef369f5c66bbb85848f2eddd5a7a1cde251e54ccfdd5"
+  ],
+  "depth": 617399,
+  "prev_block_url": "https://api.blockcypher.com/v1/btc/main/blocks/00000000839a8e6886ab5951d76f411475428afc90947ee320161bbf18eb6048",
+  "tx_url": "https://api.blockcypher.com/v1/btc/main/txs/"
+}
